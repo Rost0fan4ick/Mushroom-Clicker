@@ -1,2 +1,3 @@
 # Mushroom-Clicker
-My project for Python course
+Мій проект для курсу по Python
+Для того, щоб грати, запустіть файл "Mushroom Clicker.exe"
